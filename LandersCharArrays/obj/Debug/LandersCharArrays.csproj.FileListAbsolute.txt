@@ -1,0 +1,6 @@
+c:\users\malcolm\documents\visual studio 2015\Projects\LandersCharArrays\LandersCharArrays\bin\Debug\LandersCharArrays.exe.config
+c:\users\malcolm\documents\visual studio 2015\Projects\LandersCharArrays\LandersCharArrays\bin\Debug\LandersCharArrays.exe
+c:\users\malcolm\documents\visual studio 2015\Projects\LandersCharArrays\LandersCharArrays\bin\Debug\LandersCharArrays.pdb
+c:\users\malcolm\documents\visual studio 2015\Projects\LandersCharArrays\LandersCharArrays\obj\Debug\LandersCharArrays.csprojResolveAssemblyReference.cache
+c:\users\malcolm\documents\visual studio 2015\Projects\LandersCharArrays\LandersCharArrays\obj\Debug\LandersCharArrays.exe
+c:\users\malcolm\documents\visual studio 2015\Projects\LandersCharArrays\LandersCharArrays\obj\Debug\LandersCharArrays.pdb
